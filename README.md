@@ -1,0 +1,3 @@
+# Data Analytics Customer Segmentation
+
+The main goal of this project is to carry out a Customer Segmentation Analysis for an Automobile bike Company through the utilization of a RFM Model. This approach, which focuses on customer behavior, involves categorizing customers into segments based on their Recency, Frequency, and Monetary values. Through this analysis, the customer segment was divided into 11 distinct groups, providing valuable insights on which segments should be prioritized to drive sales revenue for the company. Furthermore, a dynamic Sales Dashboard for Customer Segmentation was developed with Tableau, while Python was used for data quality assessment and analysis.
